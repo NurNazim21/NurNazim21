@@ -31,9 +31,9 @@ Currently focused on DBMS, AI, and applied mathematics coursework, alongside ind
 <br>
  
 <h3 align="center"><i>Github Stats</i></h3>
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurNazim21&layout=default&hide_progress=true&custom_title=My%20Programming%20Languages&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurNazim21&layout=compact&hide_progress=true&custom_title=My%20Programming%20Languages&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
