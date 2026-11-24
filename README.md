@@ -64,3 +64,4 @@ Currently focused on DBMS, AI, and applied mathematics coursework, alongside ind
 
 Email: nurhossainnazim21@gmail.com
 LinkedIn: www.linkedin.com/in/nur-hossain-nazim
+Portfolio: https://nur-hossain-nazim.vercel.app/
